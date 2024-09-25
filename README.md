@@ -1,4 +1,4 @@
-# School Register System
+# Currency Exchange API
 The following project is allowing user's to exchange the currencies between the currencies accounts they have.
 After creation new user's account, by default user have 2 currency accounts - PLN and USD.
 API allows you to check the currency balances.
@@ -28,7 +28,7 @@ After downloading the repository you need to set up the configuration.
 
 ##### 5. Once the configuration is done you can run the application with the command
 ##
-<tab><tab>mvn spring-boot:run 
+<tab>mvn spring-boot:ru<tab>
 
 _NOTE_: In order to make this application running, make sure that your DB server is running
 
